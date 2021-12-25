@@ -7,12 +7,12 @@ const CONFIG = {
     desc: 'Em không trả lời hoặc thoát ra, tức là Em đồng ý rồi đó nha :> ',
     btnYes: 'Có, em thật sự thích anh 💖💖💖',
     btnNo: '💔 Anh mơ à ! 💔 ',
-    question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
-    reasonPlaceholder: 'Lý do',
+    question:'Em - chính là món quà mà ông già Noel đã dành tặng anh vào năm nay.. Không biết món quà giáng sinh của em là gì 😊😊',
+    reasonPlaceholder: 'Món quà',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
+    reply: 'Em thì chưa nhận được món quà nào.. Nhưng em nghĩ em đã có được món quà đó từ anh rồi  😊😊',
+    mess: 'Anh cảm ơn em nha, Anh  thích em lắm 🥰. Love you 300.000 😘😘',
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
-    btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    btnAccept: 'Ok nà 💖',
+    messLink: 'https://www.facebook.com/kevodung.nhat/'
 }
